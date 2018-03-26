@@ -1,4 +1,4 @@
-
+# finding happy number
 def dec_instances(number):
     
     dec_each = []
